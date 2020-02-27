@@ -1,6 +1,8 @@
-# Angular
+# Random sort table 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+The application implements the table that it receives through the "ApiService".
+Every 5 seconds, the service sends the same re-sorted list.
+The task is to store the entered value after re-sorting on the line with the same number (No.) as before sorting.
 
 ## Development server
 
